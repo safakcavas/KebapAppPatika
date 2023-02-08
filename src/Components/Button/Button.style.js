@@ -7,10 +7,11 @@ export default StyleSheet.create({
         margin:5,
         alignItems:'center',
         justifyContent:'center',
+        // width:200,
     },
     text:{
         color:'white',
-        fontSize:10,
+        fontSize:15,
     },
 }
-)
+);
